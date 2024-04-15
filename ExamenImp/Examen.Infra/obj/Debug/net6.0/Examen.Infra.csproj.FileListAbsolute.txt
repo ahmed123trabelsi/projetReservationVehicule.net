@@ -1,0 +1,36 @@
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.deps.json
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.runtimeconfig.json
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.pdb
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.AssemblyReference.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfoInputs.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfo.cs
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.CoreCompileInputs.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\refint\Examen.Infra.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.pdb
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.genruntimeconfig.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Infra\obj\Debug\net6.0\ref\Examen.Infra.dll
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Console.deps.json
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Console.runtimeconfig.json
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Console.exe
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.deps.json
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.runtimeconfig.json
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.dll
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Infra.pdb
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Console.dll
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\bin\Debug\net6.0\Examen.Console.pdb
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.AssemblyInfo.cs
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.csproj.CopyComplete
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.dll
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\refint\Examen.Infra.dll
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.pdb
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\Examen.Infra.genruntimeconfig.cache
+C:\Users\dell\Desktop\ExamenImp\Examen.Infra\obj\Debug\net6.0\ref\Examen.Infra.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E03J6ItFQEfI8+NU04FQ0GvzVU1AHTUsBanTpOY+INrwNrpWbzErKlfVZ0JhxNQvnZj5a19soGqtlmkqjcaiIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
